@@ -1,0 +1,21 @@
+﻿#keep this comment line
+file.storage=/root/aka10/maindata
+
+store.mapping.top=/
+store.mapping.root=/root
+store.mapping.etc=/etc
+store.mapping.topsec=/root/cia
+store.mapping.projects=/root/projs
+store.mapping.sea=/root/sea
+store.mapping.aka=/root/aka10
+store.mapping.pow=/root/aka10/maindata/albums/upload 
+
+#store.disks=all
+show.donation=Yx
+store.file.limit=10M
+store.image.limit=400K
+
+list.sortby.nameasc=bible,sansa
+
+types.txt=repo,sample,pub,repositories,h,prop,pid
+files.txt=authorized_keys,id_rsa,known_hosts,master,index,config,head,description,hosts,
